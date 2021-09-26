@@ -6,7 +6,7 @@ Time series forecasting is the process of analyzing time series data using stati
 darts is a Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA to deep neural networks.
 
 ## Documentation
-[Click Here](https://pypi.org/project/darts/)
+[Introduction and example](https://pypi.org/project/darts/)
 
 ## Features
 1. Forecasting Models
